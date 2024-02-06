@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Summary](#summary)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
@@ -11,9 +12,13 @@
 - [Contributing](#contributing)
 - [License](#license)
 
+## Summary
+
+We  analyzed weather and power datasets of the city of London. Initial findings suggest there is a correlation between both. Additional research is needed to confirm causation despite obvious thinking.
+
 ## Introduction
 
-Provide an overview of the project and its purpose.
+
 
 ## Features
 
