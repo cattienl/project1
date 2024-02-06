@@ -1,8 +1,6 @@
 ![Project Logo](Weatherpeople.png) 
 
-# Project Title
-
-London Weather Projections.
+# London Weather Projections
 
 ## Table of Contents
 
