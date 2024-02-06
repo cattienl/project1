@@ -26,15 +26,15 @@ List the main features of the project.
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up the project.
+Here, instructions on how to install??
 
 ## Usage
 
-Explain how to use the project and provide examples if necessary.
+Explanation of how to use the project
 
 ## Contributing
 
-Explain how others can contribute to the project and any guidelines they should follow.
+How can others contribute to the project
 
 ## License
 
