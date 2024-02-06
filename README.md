@@ -2,7 +2,7 @@
 
 # Project Title
 
-Brief description of the project.
+London Weather Projections.
 
 ## Table of Contents
 
@@ -37,7 +37,6 @@ Explain how others can contribute to the project and any guidelines they should 
 
 Specify the license under which the project is distributed.
 
-Feel free to customize this structure to fit the specific needs of your project.
 
 
 
