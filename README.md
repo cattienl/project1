@@ -18,6 +18,8 @@ We  analyzed weather and power datasets of the city of London. Initial findings 
 
 ## Introduction
 
+What is the accuracy of the forecasting model of Prophet?
+We compared projected data vs. actual data.
 
 
 ## Features
